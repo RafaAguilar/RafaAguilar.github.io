@@ -2,7 +2,7 @@ highlighter: pygments
 github: https://github.com/RafaAguilar/RafaAguilar.github.io.git
 
 # Site settings
-title:Blog de Rafa Aguilar
+title: Blog de Rafa Aguilar
 email: rafael.aguilar.1987@gmail.om
 description: > # this means to ignore newlines until "baseurl:"
   Un blog sobre Informática, Arte y Ciencia en General
