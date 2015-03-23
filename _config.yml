@@ -1,16 +1,60 @@
+# Site wide configuration
+
+title:            Blog de Rafa Aguilar
+locale:           es_ES
+url:              
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
 highlighter: pygments
-github: https://github.com/RafaAguilar/RafaAguilar.github.io.git
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
 
-# Site settings
-title: Blog de Rafa Aguilar
-email: rafael.aguilar.1987@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Un blog sobre Informática, Arte y Ciencia en General
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://RafaAguilar.github.io" # the base hostname & protocol for your site
-twitter_username: RafaAguilar1987
-github_username:  RafaAguilar
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
 
-# Build settings
-markdown: kramdown
 
+# Site owner
+owner:
+  name: Rafael Aguilar
+  avatar: bio-photo.jpg
+  bio: "Descripción de mi"
+  email: 
+  disqus-shortname: 
+  twitter: #RafaAguilar1987
+  facebook: #RafaelAguilar1987
+  google:
+    plus: #Rafael.Aguilar.1987
+    analytics: 
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
+  github: #RafaAguilar
+  stackoverflow: #http://stackoverflow.com/users/2399397/rafael-aguilar
+  linkedin: #https://www.linkedin.com/profile/view?id=186108800
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
