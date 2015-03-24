@@ -4,8 +4,9 @@ title:  "Inauguración!"
 author: rafa_aguilar
 date:   2015-03-24 11:35:40
 categories: entradas
+comments: true
 ---
-
+<br/>
 Bienvenidos a mi blog, este es el segundo intento de mantener uno, el anterior fue hace como 6 años atrás, no era organizado, no tenía los métodos ni las herramientas, hoy algunas cosas han cambiado, uso [BrightPod][brightpod] como manager de tareas, [Jekyll][jekyll] como plataforma para el blog, [Markdown][md] como lenguaje(markup) de construcción de entradas (o posts), [Brackets][brackets] como herramienta de edición de los mismos, en fín, un montón de cosas con las que antes no disponía ni conocía y que ahora me permiten sentir que en este intento lo podré lograr.
 <br/>
 
