@@ -1,25 +1,20 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-03-23 06:18:40
-categories: jekyll update
+title:  "Ingaugauración!"
+author: rafa_aguilar
+date:   2015-03-24 11:35:40
+categories: jekyll blog inauguracion
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Bienvenidos a mi blog, este es el segundo intento de mantener uno, el anterior fue hace como 6 años atrás, no era organizado, no tenía los métodos ni las herramientas, hoy algunas cosas han cambiado, uso [BrightPod][brightpod] como manager de tareas, [Jekyll][jekyll] como plataforma para el blog, [Markdown][md] como lenguaje(markup) de construcción de entradas (o posts), [Brackets][brackets] como herramienta de edición de los mismos, en fín, un montón de cosas con las que antes no disponía ni conocía y que ahora me permiten sentir que en este intento lo podré lograr.
 
-Jekyll also offers powerful support for code snippets:
+Pero en vez de aburrirlos con lo que fallé y con lo que pienso lograrlo ahora, les cuento que en este blog conseguirán entradas con las temáticas de Software Libre, Arquitectura Empresarial, ~how-to's~ *Cómos* y curiosidades acerca de arte surrealista y curiosidades sobre la física (*amo la física*).  La dinámica que quisiera mantener es de tener días tematizados donde se escogerá un tema por día asi me obligo a mantener al menos cinco (5) entrada semanas. (*si ~espero~ quiero descansar los fines :D*), estos temas podrán ser cambiados según se demande por los lectores.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Espero mantener su interés e ir luego sumando esfuerzos, hasta la próxima entrada ;).
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+*nota: cada uno de las herramientas mencionadas seguro tendrán alguna entrada en el futuro.*
 
 [jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+[brightpod]: http://brightpod.com
+[md]: http://es.wikipedia.org/wiki/Markdown
+[brackets]: http://brackets.io/
