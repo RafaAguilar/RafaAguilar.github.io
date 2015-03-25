@@ -1,6 +1,6 @@
 ---
 layout: post-index
-title: All Posts
-excerpt: "A List of Posts"
+title: Todas las entradas
+excerpt: "La lista de entradas"
 permalink: /entradas/
 ---
