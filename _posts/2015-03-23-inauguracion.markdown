@@ -16,7 +16,7 @@ Espero mantener su interés e ir luego sumando esfuerzos, hasta la próxima entr
 
 *nota: cada uno de las herramientas mencionadas seguro tendrán alguna entrada en el futuro.*
 
-[jekyll]:      http://jekyllrb.com
+[jekyll]: http://jekyllrb.com
 [brightpod]: http://brightpod.com
 [md]: http://es.wikipedia.org/wiki/Markdown
 [brackets]: http://brackets.io/
