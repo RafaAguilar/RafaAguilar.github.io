@@ -20,4 +20,4 @@ Espero mantener su interés e ir luego sumando esfuerzos, hasta la próxima entr
 [brightpod]: http://brightpod.com
 [md]: http://es.wikipedia.org/wiki/Markdown
 [brackets]: http://brackets.io/
-[reverencia]: ../images/reverencia.png
+[reverencia]: /images/Revenrencia.png
