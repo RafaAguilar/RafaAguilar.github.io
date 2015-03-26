@@ -9,7 +9,7 @@ comments: true
 
 Uno de las más grandes mentes de la historia de la humanidad y sin duda alguna del Siglo XXI merece algo más que una entrada, creo que algo más que toda una hemeroteca realmente, en este caso quiero compartirles un excelente *podcast* de [CienciaES][ciencia] que narra un poco el inicio científico de este brillante Físico (y filósofo) y explica, al estilo **Albert**, de que va le Relatividad General, que fenómenos explica y poco más.  
 
-<center>![Einstein][eistein]</center>
+<center markdown="1">![Einstein][eistein]</center>
 
 Este Podcast forma parte de una serie que se irá publicando durante a lo largo del 2015 en la categoría "Ciencia y Genios", puedes descargar el primeo dando click derecho [aquí][podcast] y seleccionar "guardar enlace como..". Y el artículo completo lo puedes conseguir [aqui][ciencia_eistein]
 
