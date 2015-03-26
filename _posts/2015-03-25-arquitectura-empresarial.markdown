@@ -17,7 +17,7 @@ Por lo descrito, y muchas razones más, se han desarrollado muchas técnicas del
 
 ![](http://si2008.wikispaces.com/file/view/diagrama_de_flujo_-_incidencias.png/31827031/diagrama_de_flujo_-_incidencias.png)
 
-Peor está [esta](http://www.cilco.co.uk/briefing-studies/acme-fashion-supplies-feasibility-study/images/top-level-dfd.jpg) que no la embebo en la entrada apara no hacerla extensa innecesariamente.
+Peor está [esta](http://www.cilco.co.uk/briefing-studies/acme-fashion-supplies-feasibility-study/images/top-level-dfd.jpg) que no la embebo en la entrada para no hacerla extensa innecesariamente.
 
 Entonces, ¿como se llegó a esto?, propondré un ejercicio para entender que ni la técnica ni el ejecutor de la misma estaban equivocados, solo que excedieron el límite, aquí va el ejercicio:
 
@@ -28,7 +28,7 @@ Entonces, ¿como se llegó a esto?, propondré un ejercicio para entender que ni
 ![Puntos en Plano][puntos_plano]
 
 
- - **Paso 2**: Ahora trace intente trazar línea con cada relación que vea y conozca... Seguro se dificultará en una hoja plana, empezará a saltar encima de sus propias líneas, entonces, como es una hoja imaginaria, quitémonos ese problema, ahora pensemos que es como un holograma, en tres dimensiones y dibujemos todas las líneas que las relacionan, seguro pensaremos en algo como esto:
+ - **Paso 2**: Ahora intente trazar una línea por cada relación que vea y conozca... Seguro se le dificultará en una hoja plana, empezará a saltar encima de sus propias líneas, pero entonces, como es una hoja imaginaria, quitémonos ese problema de encima y ahora pensemos que es como un holograma, en tres dimensiones y dibujemos todas las líneas que las relacionan, seguro pensaremos en algo como esto:
  
 ![Madeja Ordenada][madeja_ordenada]
 
@@ -64,4 +64,4 @@ En próximas entregas hablaré de algunos marcos de trabajos existentes y de her
 [puntos_plano]: /images/puntos_en_plano.jpg
 [real_madeja]: /images/madeja_real.jpg
 [modelo_ae]: /images/triangulation.png
-[1]:http://blog.group-gqs.com/?p=72
+[^1]:http://blog.group-gqs.com/?p=72
