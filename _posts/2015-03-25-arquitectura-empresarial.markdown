@@ -7,8 +7,6 @@ categories: entradas
 comments: true
 ---
 
-{% include _toc.html %}
-
 #Antecedentes
 
 Las organizaciones, con el pasar de los años, han cambiado, mutado y en fin, evolucionado, muchos podrían decir que la tecnología los ha forzado a esto, pero según mi parecer, las exigencias propias de las organizaciones (llamemosla empresa, sociedad, etc) son las que impulsan los cambios en la tecnología. En cualquier caso, se han vuelto mucho más complejas en cuanto a sus elementos y relaciones, además que en la actualidad las capacidades de adaptarse rápido o prever estos cambios se han vuelto necesidad. 
@@ -65,3 +63,4 @@ En próximas entregas hablaré de algunos marcos de trabajos existentes y de her
 [real_madeja]: /images/madeja_real.jpg
 [modelo_ae]: /images/triangulation.png
 [^1]:http://blog.group-gqs.com/?p=72
+{% include _toc.html %}
