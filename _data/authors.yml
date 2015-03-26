@@ -4,8 +4,12 @@ rafa_aguilar:
   name: Rafael Aguilar
   web: http://rafaaguilar.github.io/
   email: rafael.aguilar.1987@gmail.com
-  bio: "Arquitecto Empresarial y entusiasta por el Software Libre, la Física y el Surrealismo."
   avatar: bio-photo.jpg
+  bio: "Apasionado del desarrollo, aprendiz de arquitecto y enamorado de la Ciencia y el Arte"
+  disqus-shortname:
   twitter: RafaAguilar1987
+  facebook: /RafaelAguilar1987
   google:
-    plus:
+    plus: +RafaelAguilar1987
+  stackoverflow: #http://stackoverflow.com/users/2399397/rafael-aguilar
+  linkedin: #https://www.linkedin.com/profile/view?id=186108800
