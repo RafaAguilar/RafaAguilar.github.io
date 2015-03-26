@@ -37,7 +37,7 @@ Pero cuando lo llevamos a la realidad es algo como esto:
  - **Paso 3**: Consiga el primer área que representó y dígame con cuales actores se encuentra relacionado en primer y segundo nivel... 
  
  
-Tarea ardua, ¿no?. Aquí es cuando nace la necesidad de la Arquitectura Empresarial, necesitamos una herramienta que nos permita llegar, fácilmente, desde la figura A a la figura B:
+Tarea ardua, ¿no?. Aquí es cuando nace la necesidad de la Arquitectura Empresarial, necesitamos una herramienta que nos permita llegar, fácilmente, desde la figura A a la figura C:
 
 ![Modelo AE][modelo_ae]
 
