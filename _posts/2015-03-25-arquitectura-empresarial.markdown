@@ -39,7 +39,7 @@ Pero cuando lo llevamos a la realidad es algo como esto:
  
 Tarea ardua, ¿no?. Aquí es cuando nace la necesidad de la Arquitectura Empresarial, necesitamos una herramienta que nos permita llegar, fácilmente, desde la figura A a la figura B:
 
-[Modelo AE][modelo_ae]
+![Modelo AE][modelo_ae]
 
 #¿Que es la AE?
 
