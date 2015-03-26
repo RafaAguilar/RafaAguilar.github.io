@@ -10,7 +10,7 @@ Bienvenidos a mi blog, este es el segundo intento de mantener uno, el anterior f
 
 Pero en vez de aburrirlos con lo que fallé y con lo que pienso lograrlo ahora, les cuento que en este blog conseguirán entradas con las temáticas de Software Libre, Arquitectura Empresarial, <s>how-to's</s> *Cómos* y curiosidades acerca de arte surrealista y curiosidades sobre la física (*amo la física*).  La dinámica que quisiera mantener es de tener días tematizados donde se escogerá un tema por día asi me obligo a mantener al menos cinco (5) entrada semanas. (*si <s>espero</s> quiero descansar los fines :D*), estos temas podrán ser cambiados según se demande por los lectores.
 
-[Bienvenidos][reverencia]
+![Bienvenidos][reverencia]
 
 Espero mantener su interés e ir luego sumando esfuerzos, hasta la próxima entrada ;).
 
