@@ -44,17 +44,17 @@ Para esto se pueden usar herramientas variadas como [A3][a3], [Diagramas BPMN][b
 
 2. **Cadena de valor**: El meta-modelo es altamente abstracto, lo recomendado, entonces, es por comenzar por la zona más concreta que es la capa de negocios, hay una relación directa entre procesos medulares y lo que conoceremos como *[Capacidades][caps]* en el mundo de [TOGAF][togaf]&copy;, las interacciones y secuencia entre ellas y los [Actores y Roles][actors_roles] involucradas en las actividades de la empresa.\\
 Registramos todas los elementos arriba mencionados procurando crear sólo los objetos con las relaciones detectadas y previamente analizadas, es decir, registrar lo previsto hasta el momento, ya que cuando estemos modelando seguramente surgirán nuevas relaciones o ideas de detalles que podrían desviarnos del objetivo principal que es tener un modelo a alto nivel.
+_**+info:*** Para más información de como abordar la capa de negocio podemos ver este [Tutorial][tut_bus] que profundiza en el tema._
 <div markdown="0"><a href="#" class="btn btn-info">Nota</a></div>
 Por los momentos no hace falta identificar todas las actividades de soporte, a medida que estan vayan siendo claras durante todo el modelado podemos irlas agregando.
 {: .notice}
-_**Nota:*** Para más información de como abordar la capa de negocio podemos ver este [Tutorial][tut_bus] que profundiza en el tema._
 
 3. **Estandarización de la información**: De todos los elementos modelados en la capa de negocios emergerán documentos, funciones, roles, sistemas, entre otros, que consideraremos elementos de información(de ahora en adelente *ei*, y para cada cual tendremos que tener _**definiciones**_, _**interacciones** y **representaciones**_ y _**almacenes**_.\\
 Las ***definiciones*** podemos agruparlas en la categoría de *ei* conceptuales.  Esta podrá usarse como una especie de glosarios de términos propios del negocio, donde además podremos nutrirlos con relaciones como a que otros *ei* es relevante son, o enlaces de referencia externos que nos ayuden a definir el concepto. También se pueden definir objetivos y lineamientos(*[principios][principles]*) que gobernarán el _como se hace_ o  _como debemos_ manipular o almacenar los *ei*.\\
-Las ***interacciones** y **representaciones** podemos agruparlas en *vistas lógicas* que nos permitan visualizar las relaciones o conceptos sin necesidad de tener que capturar cada atributo de los *ei* identificando la tecnología usada, a nivel lógico, para el almacenamiento de cada una, es decir si usaremos alguna notación o una base de datos relacional, orientada a documentos, etc.\\
-Los ***almacenes** no son más que cuales estructuras físicas soportan o almacenan los *ei*, luego sabremos la importancia de conocerlas y tenerlas modeladas.
+Las ***interacciones*** y ***representaciones*** podemos agruparlas en *vistas lógicas* que nos permitan visualizar las relaciones o conceptos sin necesidad de tener que capturar cada atributo de los *ei* identificando la tecnología usada, a nivel lógico, para el almacenamiento de cada una, es decir si usaremos alguna notación o una base de datos relacional, orientada a documentos, etc.\\
+Los ***almacenes*** no son más que cuales estructuras físicas soportan o almacenan los *ei*, luego sabremos la importancia de conocerlas y tenerlas modeladas.
 
-4. ****
+- **4.** ****
 
 ###Vistas
 
