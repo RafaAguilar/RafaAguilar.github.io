@@ -811,16 +811,9 @@ $button-size: 1.5rem;
 
 .post-index #main {
     @media #{$large} {
-        float: left;
-        width: 50%;
-        margin-right: 0%;
-        margin-left: 25%;
+        margin-top: 80px;    
     }
     @media #{$x-large} {
-        @include grid(12,4.5);
-        float: left;
-        width: 50%;
-        margin-right: 0%;
-        margin-left: 25%;            
+       margin-top: 80px;          
     }
 }
