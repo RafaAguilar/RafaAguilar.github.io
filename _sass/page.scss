@@ -90,8 +90,8 @@ body {
 		&:last-child {
 			border-bottom: 0 solid transparent;
 		}        
-		padding-right: 1%;
-		padding-left: 1%;
+		padding-right: 5%;
+		padding-left: 5%;
 		border-right: rgb(19, 65, 65) 1px solid;
         
 		@media #{$small} {
@@ -108,8 +108,14 @@ body {
 			@media #{$small} {
 				display: inline;
 				padding: 0;
-			}
+			}            
 		}
+        a:hover { 
+            color: #606060
+        }
+        a:onClick{
+            color: #343434
+        }
 	}
 }
 
@@ -773,13 +779,20 @@ $button-size: 1.5rem;
 */
 .post .article-author-side, .page .article-author-side{ 
     @media #{$large} {
-        position: fixed;
-        margin-left: -70%;
+        position: fixed;  
+         @-moz-document {
+            margin-left: -70%;    
+        }
 	}
 	@media #{$x-large} {
-        position: fixed;
-        margin-left: -70%;
+        position: fixed;        
+         @-moz-document {
+            margin-left: -70%;    
+        }
 	}
+    @-moz-document {
+        margin-left: -70%;    
+    }
 }
 
 .post .navigation-wrapper, .page .navigation-wrapper{
