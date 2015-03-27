@@ -790,11 +790,10 @@ $button-size: 1.5rem;
 @-moz-document url-prefix() {
     .post .article-author-side, .page .article-author-side{ 
         @media #{$large} {
-            position: fixed;        
+            margin-left: -70%;
         }
         @media #{$x-large} {
-            position: fixed;
-
+            margin-left: -70%;
         }
     }
 }
