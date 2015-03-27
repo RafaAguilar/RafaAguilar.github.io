@@ -259,8 +259,7 @@ $button-size: 1.5rem;
         margin-top: 80px;
     }
 	.post,
-	.page,
-    .post-index{
+	.page{
         @include container;
 		@include grid(12,10);
 		@include prefix(12,1);
@@ -807,5 +806,21 @@ $button-size: 1.5rem;
 
     @media #{$x-large} {
         margin-top: -7%
+    }
+}
+
+.post-index #main {
+    @media #{$large} {
+        float: left;
+        width: 50%;
+        margin-right: 0%;
+        margin-left: 25%;
+    }
+    @media #{$x-large} {
+        @include grid(12,4.5);
+        float: left;
+        width: 50%;
+        margin-right: 0%;
+        margin-left: 25%;            
     }
 }
