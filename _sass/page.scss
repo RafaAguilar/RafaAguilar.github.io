@@ -19,20 +19,6 @@ body {
 	font-weight: 700;
 	text-transform: uppercase;
 	@include clearfix;
-    
-    @media #{$large} {
-        position: fixed;
-        .post, .page {
-            margin-top: -7%;
-        }
-    }
-
-    @media #{$x-large} {
-        position: fixed;
-        .post, .page {
-            margin-top: -7%;
-        }
-    }
         background: -moz-linear-gradient(top, rgba(255,255,255,1) 54%, rgba(255,255,255,0) 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(54%,rgba(255,255,255,1)), color-stop(100%,rgba(255,255,255,0))); /* Chrome,Safari4+ */
     background: -webkit-linear-gradient(top, rgba(255,255,255,1) 54%,rgba(255,255,255,0) 100%); /* Chrome10+,Safari5.1+ */
@@ -781,4 +767,16 @@ $button-size: 1.5rem;
         position: fixed;
         margin-left: -70%;
 	}
+}
+
+.post .navigation-wrapper, .page .navigation-wrapper{
+    @media #{$large} {
+        position: fixed;
+        margin-top: -7%
+    }
+
+    @media #{$x-large} {
+        position: fixed;
+        margin-top: -7%
+    }
 }
