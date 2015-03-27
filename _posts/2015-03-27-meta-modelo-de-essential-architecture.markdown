@@ -21,7 +21,13 @@ Expliquemos un poco de que va la propuesta del proyecto _Essential_:
 
 ##Essential Meta-Model
 
-El Meta-Modelo _Essential_ ofrece todo un marco de trabajo informal, aunque los chicos de *Essential* lo propongan como guías de mejores prácticas y tips de ayudas, que se basa en [Togaf][togaf],  marco de trabajo formal desarrollado por [OpenGroup][opengroup]
+El Meta-Modelo _Essential_ ofrece todo un marco de trabajo informal, aunque los chicos de *Essential* lo propongan como guías de mejores prácticas y tips de ayudas, que se basa en [Togaf][togaf],  marco de trabajo formal desarrollado por [OpenGroup][opengroup]. 
+
+Este modelo ofrece elementos, relaciones, enlaces, descripciones y identificadores para cada capa propuesta en [Togaf][togaf].
+
+<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
+La intensión de esta entrada no va a ser dar detalle de cada una de las capas o de lo que ofrece el meta-modelo, sino de ofrecer una visión sobre como podría una organización adoptar el uso de la *AE*[^1] como estrategia de análisis de la situación actual o furura de si misma.
+{: .notice}
 
 ###Workflow
 ###Vistas
@@ -40,3 +46,4 @@ El Meta-Modelo _Essential_ ofrece todo un marco de trabajo informal, aunque los 
 [^1]: Arquitectura Empresarial ver [más][AE]
 [opengroup]:https://www.opengroup.org/togaf/
 [togaf]:/en-construccion.html
+{% include _toc.html %}
