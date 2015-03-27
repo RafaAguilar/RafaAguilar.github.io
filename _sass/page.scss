@@ -32,6 +32,7 @@ body {
     @media #{$x-large}{
         position: fixed;
     }
+    z-index: 999;
 }
 
 /* Site name */
@@ -775,7 +776,7 @@ $button-size: 1.5rem;
 	}
 }
 
-.home .navigation-wrapper, .post .navigation-wrapper, .page .navigation-wrapper{
+.post .navigation-wrapper, .page .navigation-wrapper{
     z-index: 999;
     @media #{$large} {        
         margin-top: -7%
