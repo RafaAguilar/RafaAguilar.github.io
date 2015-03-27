@@ -20,7 +20,14 @@ body {
 	text-transform: uppercase;
 	@include clearfix;
     
-    @media #{$large}, @media #{$x-large} {
+    @media #{$large} {
+        position: fixed;
+        .post, .page {
+            margin-top: -7%;
+        }
+    }
+
+    @media #{$x-large} {
         position: fixed;
         .post, .page {
             margin-top: -7%;
