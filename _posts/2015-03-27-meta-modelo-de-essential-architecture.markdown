@@ -25,11 +25,15 @@ El Meta-Modelo _Essential_ ofrece todo un marco de trabajo informal, aunque los 
 
 Este modelo ofrece elementos, relaciones, enlaces, descripciones y identificadores para cada capa propuesta en [Togaf][togaf].
 
-<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
+<div markdown="0"><a href="#" class="btn btn-warning">Importante</a></div>
+
 La intensión de esta entrada no va a ser dar detalle de cada una de las capas o de lo que ofrece el meta-modelo, sino de ofrecer una visión sobre como podría una organización adoptar el uso de la *AE*[^1] como estrategia de análisis de la situación actual o furura de si misma.
 {: .notice}
 
 ###Workflow
+
+
+
 ###Vistas
 ##Essential Architecture Manager
 ###Protégé
