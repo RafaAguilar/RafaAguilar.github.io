@@ -775,7 +775,7 @@ $button-size: 1.5rem;
 	}
 }
 
-.post .navigation-wrapper, .page .navigation-wrapper{
+.home .navigation-wrapper, .post .navigation-wrapper, .page .navigation-wrapper{
     @media #{$large} {        
         margin-top: -7%
     }
