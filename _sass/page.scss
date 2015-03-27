@@ -777,7 +777,7 @@ $button-size: 1.5rem;
 /*
     Custom rules
 */
-.post .article-author-side{ 
+.post .article-author-side, .page .article-author-side{ 
     @media #{$large} {
         position: fixed;        
 	}
@@ -798,7 +798,7 @@ $button-size: 1.5rem;
     }
 }
 
-.post .navigation-wrapper, .page .navigation-wrapper{
+.post .navigation-wrapper{
     z-index: 999;
     @media #{$large} {        
         margin-top: -7%
