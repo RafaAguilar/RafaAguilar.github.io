@@ -238,6 +238,12 @@ $button-size: 1.5rem;
 	h1 {
 		margin-top: 0;
 	}
+    @media #{$large} {
+        margin-top: 80px;        
+    }
+    @media #{$x-large} {
+        margin-top: 80px;
+    }
 	.post,
 	.page {
         @include container;
@@ -255,15 +261,13 @@ $button-size: 1.5rem;
             width: 50%;
             margin-right: 0%;
             margin-left: 25%;
-            margin-top: 80px;
         }
 		@media #{$x-large} {
 			@include grid(12,4.5);
             float: left;
             width: 50%;
             margin-right: 0%;
-            margin-left: 25%;
-            margin-top: 80px;
+            margin-left: 25%;            
 		}
 	}
 }
