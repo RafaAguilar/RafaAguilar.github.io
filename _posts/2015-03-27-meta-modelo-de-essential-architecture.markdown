@@ -44,7 +44,7 @@ _La intensión de esta entrada no va a ser dar detalle de cada una de las capas 
 Para esto se pueden usar herramientas variadas como [A3][a3], [Diagramas BPMN][bpmn], encuestas, entre otras técnicas de levantamiento de información que te puedan aportar los datos necesarios para conocer las interacciones de alto(o mediano) nivel de los principales procesos de la organización.
 
 - **2** **Cadena de valor**: El meta-modelo es altamente abstracto, lo recomendado, entonces, es por comenzar por la zona más concreta que es la capa de negocios, hay una relación directa entre procesos medulares y lo que conoceremos como *[Capacidades][caps]* en el mundo de [TOGAF][togaf]&copy;, las interacciones y secuencia entre ellas y los [Actores y Roles][actors_roles] involucradas en las actividades de la empresa.\\
-Registramos todas los elementos arriba mencionados procurando crear sólo los objetos con las relaciones detectadas y previamente analizadas, es decir, registrar lo previsto hasta el momento, ya que cuando estemos modelando seguramente surgirán nuevas relaciones o ideas de detalles que podrían desviarnos del objetivo principal que es tener un modelo a alto nivel.\\\\
+Registramos todas los elementos arriba mencionados procurando crear sólo los objetos con las relaciones detectadas y previamente analizadas, es decir, registrar lo previsto hasta el momento, ya que cuando estemos modelando seguramente surgirán nuevas relaciones o ideas de detalles que podrían desviarnos del objetivo principal que es tener un modelo a alto nivel.\\
 _**+info:*** Para más información de como abordar la capa de negocio podemos ver este [Tutorial][tut_bus] que profundiza en el tema._
 
 <div markdown="0"><a href="#" class="btn btn-info">Nota</a></div>
