@@ -2,7 +2,7 @@
 layout: post
 title: "AE: El proyecto *Essential*"
 author: rafa_aguilar
-date: {}
+date: 2015-03-27 11:35:40
 categories: entradas
 comments: true
 published: true
