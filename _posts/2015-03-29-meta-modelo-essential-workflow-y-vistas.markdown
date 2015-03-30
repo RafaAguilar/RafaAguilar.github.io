@@ -90,5 +90,5 @@ Parte de lo que podemos esperar acá lo podemos ver reflejado en las siguientes 
 [tut_bus]:http://www.enterprise-architecture.org/business-architecture-tutorials
 [tut_app]:http://www.enterprise-architecture.org/application-architecture-tutorials/57-application-architecture-overview
 [tut_inf]:http://www.enterprise-architecture.org/techology-architecture-tutorials/58-techology-architecture-overview
-[ea_viewer]:/en-construccion.html
+[ea_viewer]:/entradas/meta-modelo-essential-herramientas/#essential-viewer---webapp
 {% include _toc.html %}
