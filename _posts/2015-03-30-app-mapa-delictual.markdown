@@ -20,4 +20,4 @@ De verdad espero que estos muchachos tengan todo el apoyo para seguir desarroll√
 Amplia la noticia dando click **aqu√≠**
 {: .notice}
 
-http://noticiasdelaciencia.com/not/13353/desarrollan-una-aplicacion-que-permite-registrar-delitos/
+![](http://noticiasdelaciencia.com/not/13353/desarrollan-una-aplicacion-que-permite-registrar-delitos/)
