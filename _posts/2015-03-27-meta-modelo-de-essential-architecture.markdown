@@ -50,13 +50,6 @@ Para la *evaluación*, o mejor dicho *apreciación subjetiva*, sólo tomaré en 
 Empezaré por un listado de las ventajas y desventajas:
 
 ####Ventajas
-- **2** **Cadena de valor**: El meta-modelo es altamente abstracto, lo recomendado, entonces, es por comenzar por la zona más concreta que es la capa de negocios, hay una relación directa entre procesos medulares y lo que conoceremos como *[Capacidades][caps]* en el mundo de [TOGAF][togaf]&copy;, las interacciones y secuencia entre ellas y los [Actores y Roles][actors_roles] involucradas en las actividades de la empresa.\\
-Registramos todas los elementos arriba mencionados procurando crear sólo los objetos con las relaciones detectadas y previamente analizadas, es decir, registrar lo previsto hasta el momento, ya que cuando estemos modelando seguramente surgirán nuevas relaciones o ideas de detalles que podrían desviarnos del objetivo principal que es tener un modelo a alto nivel.
-_**+info:*** Para más información de como abordar la capa de negocio podemos ver este [Tutorial][tut_bus] que profundiza en el tema._
-
-<div markdown="0"><a href="#" class="btn btn-info">Nota</a></div>
-Por los momentos no hace falta identificar todas las actividades de soporte, a medida que estan vayan siendo claras durante todo el modelado podemos irlas agregando.
-{: .notice}
 
  - Basada en un metodología probada y exhaustiva como lo es [TOGAF][togaf]&copy;
  - Completamente apegada a las directrices del estándar de [TOGAF][togaf]&copy; en su versión 9
