@@ -2,7 +2,7 @@
 layout: post
 title:  "Un sistema operativo que se adapta a las lenguas Indígenas"
 author: rafa_aguilar
-date:   2015-03-2 11:35:40
+date:   2015-03-23 11:35:40
 categories: entradas
 comments: true
 ---

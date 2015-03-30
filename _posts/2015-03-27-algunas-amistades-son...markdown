@@ -2,7 +2,7 @@
 layout: post
 title:  "Algunas amistades son... o no son?"
 author: rafa_aguilar
-date:   2015-03-22 11:35:40
+date:   2015-03-27 11:35:40
 categories: entradas
 comments: true
 ---
