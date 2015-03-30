@@ -16,7 +16,7 @@ El proyecto *Essential* nace de una inicativa promovida por [Enterprise Architec
 
 El proyecto también cuenta con una excelente [comunidad][eas_comm] que lo respalda y que motoriza el hecho que se mantendrá libre tanto sus herramientas y base también lo son, otorgando así proyección a cualquier organización que se determine usarla.
 
-El principal objetivo de estos chicos es intentar desmontar la *AE*[AE] de la burbuja o la *torre de marfil* donde se cree que es un estudio muy avanzado y desapegado a la realidad, donde el fin es entender abstractamente los elementos e interrelaciones en una organización, cuando en realidad la *AE*[AE] ofrece gigantescas ventajas competitivas con apenas semanas de esfuerzo.
+El principal objetivo de estos chicos es intentar desmontar la *[A.E.][AE]* de la burbuja o la *torre de marfil* donde se cree que es un estudio muy avanzado y desapegado a la realidad, donde el fin es entender abstractamente los elementos e interrelaciones en una organización, cuando en realidad la *AE*[AE] ofrece gigantescas ventajas competitivas con apenas semanas de esfuerzo.
 
 <div markdown="0"><a href="#" class="btn btn-info">Advertencia</a></div>
 
@@ -38,7 +38,7 @@ Como las imágenes valen más que mil palabras, acá un diagrama conceptual del 
 
 <div markdown="0"><a href="#" class="btn btn-warning">Importante</a></div>
 
-_La intensión de esta entrada no va a ser dar detalle de cada una de las capas o de lo que ofrece el meta-modelo, sino de ofrecer una visión sobre como podría una organización abordar el uso de la **AE**[AE] como estrategia de análisis de la situación actual o furura de si misma usándolo.\\
+_La intensión de esta entrada no va a ser dar detalle de cada una de las capas o de lo que ofrece el meta-modelo, sino de ofrecer una visión sobre como podría una organización abordar el uso de la **[A.E.][AE]** como estrategia de análisis de la situación actual o furura de si misma usándolo.\\
 Si desea profundizar puede leer el artículo **[flujo de trabajo propuesto][workflow]** y el de **[las herramientas][ea_toolset]** usadas._
 {: .notice}
 

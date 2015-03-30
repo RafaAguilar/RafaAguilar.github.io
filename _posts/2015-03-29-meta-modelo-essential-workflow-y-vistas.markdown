@@ -40,8 +40,9 @@ Podemos observar acá los distintos elementos y relaciones de la capa de informa
 Podemos observar acá los distintos elementos y relaciones de la capa de aplicaciones:  ![](http://www.enterprise-architecture.org/images/stories/essential/tutorials/layers/application_layer_overview.png)\\
 Podemos observar acá los distintos elementos y relaciones de la capa de infraestructura:  ![](http://www.enterprise-architecture.org/images/stories/essential/tutorials/layers/technology_layer_overview.png)
 
-    
-_**+info:** Para más información de como abordar la capa de aplicaciones e infraestructura podemos ver estos **[Tutorial C. Aplicaciones][tut_app]** y **[Tutorial C. Infraestructura][tut_inf]** que profundizan los temas._
+<div markdown="0"><a href="#" class="btn btn-info">Info</a></div>    
+_Para más información de como abordar la capa de aplicaciones e infraestructura podemos ver estos **[Tutorial C. Aplicaciones][tut_app]** y **[Tutorial C. Infraestructura][tut_inf]** que profundizan los temas._
+{: .notice}
 
 ###Vistas
 
@@ -59,7 +60,7 @@ Parte de lo que podemos esperar acá lo podemos ver reflejado en las siguientes 
  - **Matriz de Permisología (roles)**
 ![Data-to-Role Matrix](http://www.enterprise-architecture.org/images/stories/essential/viewer3_screenshots/11%20-%20data%20security%20model.png)
 
- - **Modelo de referencihttp://www.enterprise-architecture.org/images/stories/essential/v3_screens_for_articles/4x4_comp_reflect.pnga de Tecnologías**
+ - **Modelo de referencia de Tecnologías**
 ![TI Reference Model](http://www.enterprise-architecture.org/images/stories/essential/viewer3_screenshots/07%20-%20technology%20reference%20model.png)
 
 
