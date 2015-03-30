@@ -8,7 +8,7 @@ comments: true
 published: true
 ---
 
-#El proyecto *Essential*
+#El proyecto
 
 El proyecto *Essential* nace de una inicativa promovida por [Enterprise Architecture Solutions Ltd][eas], el cual busca impulsar que las empresas y organizaciones, de cualquier escala saquen, el mejor provecho del valor agregado que ofrece la [Arquitectura Empresarial][AE] disminuyendo las dificultades y aportando herramientas **[libres][free]** que briden simpleza sin ir en detrimento de la productividad.  Dejemos que ellos mismos lo expliquen con sus palabras:
 
@@ -18,9 +18,9 @@ El proyecto también cuenta con una excelente [comunidad][eas_comm] que lo respa
 
 El principal objetivo de estos chicos es intentar desmontar la *[A.E.][AE]* de la burbuja o la *torre de marfil* donde se cree que es un estudio muy avanzado y desapegado a la realidad, donde el fin es entender abstractamente los elementos e interrelaciones en una organización, cuando en realidad la *AE*[AE] ofrece gigantescas ventajas competitivas con apenas semanas de esfuerzo.
 
-<div markdown="0"><a href="#" class="btn btn-info">Advertencia</a></div>
+<div markdown="0"><a href="#" class="btn btn-info">Recomendación</a></div>
 
-_**Prefereiblemente** se requiere tener conocimientos, al menos básicos, sobre modelado **[UML][uml]** debido a que en la metodología propuesta se usan muchos conceptos **core** y conceptos análogos de esta notación ._
+_**Prefereiblemente** se requiere tener conocimientos, al menos básicos, sobre modelado **[UML][uml]** debido a que en la metodología propuesta se usan muchos conceptos **core** y conceptos análogos de esta notación._
 {: .notice}
 
 Expliquemos un poco de que va la propuesta del proyecto _Essential_:
@@ -38,8 +38,9 @@ Como las imágenes valen más que mil palabras, acá un diagrama conceptual del 
 
 <div markdown="0"><a href="#" class="btn btn-warning">Importante</a></div>
 
-_La intensión de esta entrada no va a ser dar detalle de cada una de las capas o de lo que ofrece el meta-modelo, sino de ofrecer una visión sobre como podría una organización abordar el uso de la **[A.E.][AE]** como estrategia de análisis de la situación actual o furura de si misma usándolo.\\
-Si desea profundizar puede leer el artículo **[flujo de trabajo propuesto][workflow]** y el de **[las herramientas][ea_toolset]** usadas._
+_La intensión de esta entrada no va a ser dar detalle de cada una de las capas o de lo que ofrece el meta-modelo, sino de ofrecer una opinión de las ventajas y deventajas para una organización al abordar la **[A.E.][AE]** como estrategia de análisis de la situación actual o futura de si misma usando las herramientas y flujo de trabajo de Essential.\\
+\\
+Si desea profundizar puede leer el artículo de **[las herramientas][ea_toolset]** usadas  y el del **[flujo de trabajo propuesto][workflow]**._
 {: .notice}
 
 ###Resumen

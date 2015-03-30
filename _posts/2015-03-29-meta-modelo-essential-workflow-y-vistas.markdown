@@ -8,11 +8,11 @@ comments: true
 published: true
 ---
 
-<div markdown="0"><a href="#" class="btn btn-warning">Alto!</a></div>
-Se recomienda altamente haber leído **[esta entrada](/entradas/meta-modelo-de-essential-architecture/)** antes de seguir.
-{: .notice}
-
 ###Flujo de trabajo
+
+<div markdown="0"><a href="#" class="btn btn-danger">Alto!</a></div>
+Se recomienda altamente haber leído **[esta entrada](/meta-modelo-essential-herramientas/) y [esta otra](/entradas/meta-modelo-essential-workflow-y-vistas/)** antes de seguir.
+{: .notice}
 
  - **1.** **Análisis Previo**: Aunque con el meta-modelo se facilita un poco poder modelar(valga la redundancia) la organización en sus elementos, iniciar el análisis a la vez que se toma la estrategia *AE*[^1] es bastante complejo y puede retrasar o detener por completo este proceso, y no es lo que se desea, por eso se propone conocer lo más posible los principios o lineamientos, estructura orgánica, formatos o documentos, normas o reglamentos y principales funciones y entorno(cadena de valor de alto nivel) de la organización antes de iniciar el modelado. \\
 Para esto se pueden usar herramientas variadas como [A3][a3], [Diagramas BPMN][bpmn], encuestas, entre otras técnicas de levantamiento de información que te puedan aportar los datos necesarios para conocer las interacciones de alto(o mediano) nivel de los principales procesos de la organización.
