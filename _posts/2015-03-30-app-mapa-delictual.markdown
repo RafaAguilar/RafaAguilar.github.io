@@ -17,7 +17,7 @@ De verdad espero que estos muchachos tengan todo el apoyo para seguir desarroll�
 ¿Que les parece a ustedes?¿Lo apoyarían?
 
 <div markdown="0"><a href="#" class="btn btn-info">Info</a></div>
-Amplia la noticia dando click **aquí**
+Amplia la noticia dando click **[aquí](http://noticiasdelaciencia.com/not/13353/desarrollan-una-aplicacion-que-permite-registrar-delitos/)**
 {: .notice}
 
-http://noticiasdelaciencia.com/not/13353/desarrollan-una-aplicacion-que-permite-registrar-delitos/
+![](http://noticiasdelaciencia.com/upload/img/periodico/img_26372.jpg)
