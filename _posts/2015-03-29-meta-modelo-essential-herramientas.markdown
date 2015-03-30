@@ -14,7 +14,7 @@ published: true
 Se recomienda altamente haber leído **[esta entrada](/entradas/meta-modelo-de-essential-architecture/)** antes de seguir.
 {: .notice}
 
-El gestor de la arquitectura Essential es un conjunto the herramientas basdas en tecnologías **[libres][free]** enfocadas en soportar solamente prácticas de arquitectura empresarial aplicadas en el contexto de gestiones del negocio y de tecnologías de información tales como Gestión de Estrategias, entrega de soluciones, entrega de servicios, entre otros; haciendo énfasis en crear una herramienta de bajo mantenimiento (tanto en la arquitectura como en la plataforma), fácil de aprender y capaz de entregar resultados en semanas, en vez de meses.
+El gestor de la arquitectura Essential es un conjunto de herramientas basdas en tecnologías **[libres][free]** enfocadas en soportar solamente prácticas de arquitectura empresarial aplicadas en el contexto de gestiones del negocio y de tecnologías de información tales como Gestión de Estrategias, entrega de soluciones, entrega de servicios, entre otros; haciendo énfasis en crear una herramienta de bajo mantenimiento (tanto en la arquitectura como en la plataforma), fácil de aprender y capaz de entregar resultados en semanas, en vez de meses.
 
 Básicamente estas herramientas se pueden categorizar como la *parte modeladora* y la *parte visualizadora*, entre ellas existen una serie de componentes y relaciones que mostraremos en las siguientes imágenes
 
