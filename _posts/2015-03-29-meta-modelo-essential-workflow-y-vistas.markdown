@@ -9,7 +9,7 @@ published: true
 ---
 
 <div markdown="0"><a href="#" class="btn btn-warning">Alto!</a></div>
-Si has llegado acá tipo *paracaída*, primero debes leer **[esta entrada](/entradas/meta-modelo-de-essential-architecture/)** antes de seguir, si no es así, ingora esto y continúa
+Se recomienda altamente haber leído **[esta entrada](/entradas/meta-modelo-de-essential-architecture/)** antes de seguir.
 {: .notice}
 
 ###Flujo de trabajo
@@ -59,7 +59,7 @@ Parte de lo que podemos esperar acá lo podemos ver reflejado en las siguientes 
  - **Matriz de Permisología (roles)**
 ![Data-to-Role Matrix](http://www.enterprise-architecture.org/images/stories/essential/viewer3_screenshots/11%20-%20data%20security%20model.png)
 
- - **Modelo de referencia de Tecnologías**
+ - **Modelo de referencihttp://www.enterprise-architecture.org/images/stories/essential/v3_screens_for_articles/4x4_comp_reflect.pnga de Tecnologías**
 ![TI Reference Model](http://www.enterprise-architecture.org/images/stories/essential/viewer3_screenshots/07%20-%20technology%20reference%20model.png)
 
 
