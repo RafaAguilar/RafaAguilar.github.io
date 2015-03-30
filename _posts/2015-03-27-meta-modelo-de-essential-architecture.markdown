@@ -42,11 +42,41 @@ _La intensión de esta entrada no va a ser dar detalle de cada una de las capas 
 Si desea profundizar puede leer el artículo **[flujo de trabajo propuesto][workflow]** y el de **[las herramientas][ea_toolset]** usadas._
 {: .notice}
 
+###Resumen
 
-<!-- Artículo Original -->
-###Ventajas
-###Desventajas
-###Conclusión
+Para la *evaluación*, o mejor dicho *apreciación subjetiva*, sólo tomaré en cuenta el [flujo de trabajo][workflow] y [[Herramientas][ea_toolset] propuesto por los chicos de [EAS][eas] dejando *por fuera* los beneficios que trae consigo la [A.E.][AE] como estrategia de una organización.
+
+Empezaré por un listado de las ventajas y desventajas:
+
+####Ventajas
+
+ - Basada en un metodología probada y exhaustiva como lo es [TOGAF][togaf]&copy;
+ - Completamente apegada a las directrices del estándar de [TOGAF][togaf]&copy; en su versión 9
+ - Al estar sus herramientas basadas [Software Libre][free] la sostenibilidad está garantizada 
+ - Excelente comunidad y documentación sobre el manejo de sus herramientas
+ - Repositorio centralizado para trabajo colaborativo
+ - Cien (100) reportes listos *out-of-the-box* separados por roles
+ - Herramienta para importar datos de fuentes externas, excelente migración garantizada
+ - Todos los Elementos propuestos por [TOGAF][togaf]&copy; ya creados en el repositorio (clases y relaciones) ya creadas al inicio
+ - 
+
+####Desventajas
+
+ - Excesivamente exhaustivo, para cada elemento de [TOGAF][togaf]&copy; existe una entrada en el formulario de cada una de las posibles relaciones, esto hace que ingresar la información de un elemento se dificulte
+ - Baja flexibilidad *out-of-the-box*, para gozar del beneficio de todas las vistas pre-creadas, se debe trabajar al estilo *essential-way*, sino probablemente se verán muchas vistas vacías
+ - Aunque se pueden crear reportes nuevos y usar como plantilla los existentes, es un formato que embebe notación HTML, XML, SVG y código JavaScript (cuidado si no se me escapa algo), y todo en un solo archivo.. resulta bastante tedioso modificar uno o intentar hacer alguno desde cero para alguien no familiarizado.
+ - La diagramación BPMN y de la Cadena de Valor deja mucho que desear
+ - Los formularios no son pensados, *IMHO*, para diagramar o modelar desde un comienzo en ellas, están más enfocadas en el "vaciado" de información en el repositorio a través de los mismos un análisis ya realizado de la [A.E.][AE] actual.
+ - El Meta-Modelo no es extensible facilmente (al menos no conseguí como hacerlo en este análisis)
+ - Conseguir elementos (o clases) resulta bastante complejo no es intuitiva en todos los casos.
+ 
+####Conclusión
+
+Seguramente se escapan algunas ventajas o desventajas, y claramente esta lleno de subjetividad, sin embargo debo decir que la herramienta es tremendamente potente, ofrece un valor agregado inmenso (aparte del que ofrece la [A.E.][AE] en si, y simplifica un poco el trabajo de modelar la arquitectura base o actual de una organización, sin embargo, creo que el objetivo trazado de entregar resultados en *días o semanas* como dicen los chicos de [EAS][eas] no aplica en todos los casos, y en organizaciones de medianas a grandes puede resultar bastante complejo y de gran esfuerzo, aunque no digo que no se merezca invertir este esfuerzo.
+
+Para una organización pequeña o naciente me parece una gran iniciativa en la cual si se cumplen los objetivos de entregar resultados a corto plazo y permite alta escalabilidad como para que pueda mantenerse, incluso hasta desarrollarse como una gran organización.  Ahora, para empresas u organizaciones de medianas a grandes ya cosntituidas y no cercanas a la [A.E.][AE] puede ser un *escalón* mayor de complejidad el crear y mantener, en un inicio, la arquitectura base.
+
+
 
 [fuente]: http://www.enterprise-architecture.org/about/mission
 [eas]: http://www.enterprise-architecture.org/component/weblinks/weblink/39-eas/6-eas-home
