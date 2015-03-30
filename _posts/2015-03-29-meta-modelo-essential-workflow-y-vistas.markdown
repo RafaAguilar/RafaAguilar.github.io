@@ -11,7 +11,7 @@ published: true
 ###Flujo de trabajo
 
 <div markdown="0"><a href="#" class="btn btn-danger">Alto!</a></div>
-Se recomienda altamente haber leído **[esta entrada](/entradas/meta-modelo-essential-herramientas/) y [esta otra](/entradas/meta-modelo-essential-herramientas/)** antes de seguir.
+Se recomienda altamente haber leído **[esta entrada](/entradas/meta-modelo-de-essential-architecture/) y [esta otra](/entradas/meta-modelo-essential-herramientas/)** antes de seguir.
 {: .notice}
 
 Debido a lo complejo que puede ser implementar la [A.E.][AE] desde nada o cero, se propone un flujo de trabajo derivado del propuesto por los chicos de [EAS][eas], es sólo una humilde propuesta de como una organización podría abordar el crear su arquitectura base o actual siguiendo estos cuantro (4) pasos, además de los referenciados en cada uno.
