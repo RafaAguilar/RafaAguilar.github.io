@@ -5,7 +5,7 @@ author: rafa_aguilar
 date: 2015-03-29 17:35:40
 categories: entradas
 comments: true
-published: false
+published: true
 ---
 
 ##Essential Architecture Manager
