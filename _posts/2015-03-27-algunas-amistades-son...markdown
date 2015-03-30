@@ -5,6 +5,7 @@ author: rafa_aguilar
 date:   2015-03-27 11:35:40
 categories: entradas
 comments: true
+permalink:/entradas/algunas-amistades-son/
 ---
 
 Como todos los Viernes, traigo esta reflexión de Quino puede hacer pensar a más de uno con respecto a quienes le rodean, ojo con tus *amistades* que solo te quieren por algún interés egoista.
