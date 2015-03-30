@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Un sistema operativo que se adapta a las lenguas Indígenas"
+title:  "Imágenes que hacen pensar - by SaroltaBan"
 author: rafa_aguilar
 date:   2015-03-24 11:35:40
 categories: entradas
