@@ -819,7 +819,7 @@ $button-size: 1.5rem;
 }
 
 @-moz-document url('http://rafaaguilar.github.io/404.html'),
-               url('http://cmpmo01.cm.com.ve/404.html'){
+               url('http://cmpmo01.cm.com.ve:4000/404.html'){
     .page .navigation-wrapper{
         z-index: 999;
         @media #{$large} {
