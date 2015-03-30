@@ -817,3 +817,16 @@ $button-size: 1.5rem;
        padding-top: 80px;          
     }
 }
+
+@-moz-document regexp('http://(rafaaguilar.github.io|cmpmo01.cm.com.ve))/404.html') {
+    .page .navigation-wrapper{
+        z-index: 999;
+        @media #{$large} {
+            margin-top: -7%
+        }
+
+        @media #{$x-large} {
+            margin-top: -7%
+        }
+    }
+}
