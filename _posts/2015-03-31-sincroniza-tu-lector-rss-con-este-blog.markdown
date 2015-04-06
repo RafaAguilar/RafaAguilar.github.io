@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Sincroniza tu lector RSS con este blog"
-date: "2015-03-31"
+date: 2015-03-31 04:35:40
 author: rafa_aguilar
-published:true
-comments:true
+published: true
+categories: entradas
+comments: true
 ---
-
 
 Si quieres estar al dia con el blog sólo tienes que agregar nuestras ***feeds*** a tu lector de noticias o RSS.
 
