@@ -8,7 +8,7 @@ body {
 	color: $text-color;
 }
 
-/* 
+/*
    Header
    ========================================================================== */
 
@@ -34,7 +34,7 @@ body {
     }
     z-index: 999;
     li {
-        
+
     }
 }
 
@@ -89,17 +89,17 @@ body {
 		@include font-rem(16);
 		&:last-child {
 			border-bottom: 0 solid transparent;
-		}        
+		}
 		padding-right: 5%;
 		padding-left: 5%;
 		border-right: rgb(19, 65, 65) 1px solid;
-        
+
 		@media #{$small} {
-			display: inline;			
+			display: inline;
 			white-space: nowrap;
 			border-bottom: 0 solid transparent;
 		}
-		a { 
+		a {
 			display: block;
 			padding: 10px 0;
 			decoration: none;
@@ -108,9 +108,9 @@ body {
 			@media #{$small} {
 				display: inline;
 				padding: 0;
-			}            
+			}
 		}
-        a:hover { 
+        a:hover {
             color: #606060
         }
         a:onClick{
@@ -191,11 +191,11 @@ $button-size: 1.5rem;
 	}
 }
 // Style the toggle menu link and hide it
-.nav .navtoogle {	
+.nav .navtoogle {
 	@include font-rem(18);
 	font-weight: normal;
 	background-color: $black;
-	color: $white;	
+	color: $white;
 	border: none;
 	cursor: pointer;
 	@media #{$small} {
@@ -232,7 +232,7 @@ $button-size: 1.5rem;
 	}
 }
 // Displaying the menu when the user has clicked on the button
-.js .nav .active + ul {		
+.js .nav .active + ul {
 	max-height: 30em;
 	overflow: hidden;
 	-webkit-transition: max-height .4s;
@@ -253,7 +253,7 @@ $button-size: 1.5rem;
 		margin-top: 0;
 	}
     @media #{$large} {
-        margin-top: 80px;        
+        margin-top: 80px;
     }
     @media #{$x-large} {
         margin-top: 80px;
@@ -281,7 +281,11 @@ $button-size: 1.5rem;
             float: left;
             width: 50%;
             margin-right: 0%;
-            margin-left: 25%;            
+            margin-left: 25%;
+		}
+		h1, h2, h3, h4, h5, h6 {
+    font-family: "PT Sans Narrow",sans-serif;
+    padding-top: 6%;
 		}
 	}
 }
@@ -590,7 +594,7 @@ $button-size: 1.5rem;
 	margin: 1em 0;
 	li {
 		display: inline;
-		a { 
+		a {
 			border-bottom: 0 solid transparent;
 			&:hover {
 				border-bottom: 0 solid transparent;
@@ -616,7 +620,7 @@ $button-size: 1.5rem;
   li {
   	display: inline-block;
   }
-  $social: 
+  $social:
   (facebook, $facebook-color),
   (flickr, $flickr-color),
   (foursquare, $foursquare-color),
@@ -632,7 +636,7 @@ $button-size: 1.5rem;
   @each $socialnetwork, $color in $social {
     .#{$socialnetwork} {
       background: $color;
-    }    
+    }
   }
   a {
 	  display: block;
@@ -676,7 +680,7 @@ $button-size: 1.5rem;
 	h4,
 	h5,
 	h6,
-	span { 
+	span {
 		@include font-rem(14);
 	}
 	footer {
@@ -721,7 +725,7 @@ $button-size: 1.5rem;
 	}
 }
 
-/* 
+/*
    Browser upgrade alert
    ========================================================================== */
 
@@ -741,7 +745,7 @@ $button-size: 1.5rem;
 		}
 	}
 }
-/* 
+/*
    Google search form
    ========================================================================== */
 
@@ -777,18 +781,18 @@ $button-size: 1.5rem;
 /*
     Custom rules
 */
-.post .article-author-side, .page .article-author-side{ 
+.post .article-author-side, .page .article-author-side{
     @media #{$large} {
-        position: fixed;        
+        position: fixed;
 	}
 	@media #{$x-large} {
         position: fixed;
-        
+
 	}
 }
 
 @-moz-document url-prefix() {
-    .post .article-author-side, .page .article-author-side{ 
+    .post .article-author-side, .page .article-author-side{
         @media #{$large} {
             margin-left: -70%;
         }
@@ -800,7 +804,7 @@ $button-size: 1.5rem;
 
 .post .navigation-wrapper, .post-index{
     z-index: 999;
-    @media #{$large} {        
+    @media #{$large} {
         margin-top: -7%
     }
 
@@ -811,10 +815,10 @@ $button-size: 1.5rem;
 
 .post-index #main {
     @media #{$large} {
-        padding-top: 80px;    
+        padding-top: 80px;
     }
     @media #{$x-large} {
-       padding-top: 80px;          
+       padding-top: 80px;
     }
 }
 
