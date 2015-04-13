@@ -9,7 +9,7 @@ comments: true
 
 #Versión en Español
 
-![Experimental Logo][]
+![Experimental Logo][a2mlogo]
 
 ##Cuento Corto
 
