@@ -8,6 +8,9 @@ comments: true
 ---
 
 #Versión en Español
+
+![Experimental Logo][]
+
 ##Cuento Corto
 
 El cuento corto es que [Archimate2MongoDB][a2m] es una herramienta libre desarrollada en Python v3.4 que permite analizar (*parse*) el [archivo del formato de intercambio Archimate][AFF] y colocarlo bajo una estructura *No-SQL* usando MongoDB como servidor.
@@ -17,8 +20,6 @@ El cuento corto es que [Archimate2MongoDB][a2m] es una herramienta libre desarro
 El cuento *largo* es que esta iniciativa nace como una idea de oficina entre un colega (F. Rodríguez) debido a la necesidad de tener un motor de búsquedas del modelo que actualmente se está levantando allí, aunque usamos [Archi][archi] para modelar, excelente herramienta libre para esa tarea, no satisface todos los casos de usos en su desarrollo actual, es por esto que queremos devolver a la comunidad parte del beneficio que hemos obtenido, la idea base es crear una analizador avanzado sobre el cual podramos extraer información relevante rápidamente.
 
 En la etapa actual tenemos como meta abarcar la fase 1 propuesta por el equipo de Open Group, donde podamos consultar cualquier elemento y obtener sus relaciones en cualquier nivel, filtrando los elementos de interés, además de crear posibilidades de edición en línea, vaciar desde MongoDB a XML, entre otras cosas.
-
-![Logo experimental][a2mlogo]
 
 La herramienta se encuentra desarrollada en Python v3.4, usando como motor MongoDB v3(como instalarlo [aquí][mongo]) y las librerías para Python PyMongo v3.0rc1
 
@@ -51,7 +52,9 @@ Les debo el artículo sobre Archimate&copy;, en las próximas semanas saldrá ju
 _PD: el archivo `setup.py` puedes ignorarlo por los momentos, no se encuentra a tono._
 
 #English Version
+
 ##Short History
+
 The Short history is this,  [Archimate2MongoDB][a2m] is a Open Source Software developed in Python v3.4 that allows to parse the [ArchiMate® Model Exchange File Format][AFF] and dump the information into a *Non-SQL* structure using MongoDB as a background server.
 
 ##Long Hisotry
