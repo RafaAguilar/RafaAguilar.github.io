@@ -7,7 +7,7 @@ categories: entradas
 comments: true
 ---
 
-[*cliché*] ___Hay dias buenos y días malos___ [/*cliché*].. pero hay veces donde los útlimos vienen muy seguidos, son los momentos donde toca arremangarse la camisa e adaptarse, ojo, que no es lo mismo que conformarse, toca reinventarse y aprovechar las oportunidades.
+[*cliché*] ___Hay dias buenos y días malos___ [/*cliché*].. pero hay veces donde los útlimos vienen muy seguidos, son los momentos donde toca arremangarse la camisa y adaptarse, ojo, que no es lo mismo que conformarse, toca reinventarse y aprovechar las oportunidades.
 
 Esta imagen, realizada por [Erik Johansson][EJ] un maestro del surrealismo Suizo que sabe demotrar conceptos con imágenes como pocos.
 
