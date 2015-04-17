@@ -7,7 +7,7 @@ categories: entradas
 comments: true
 ---
 
-Por supuesto no podía despedirme de la semana sino antes sumarme a los homenajes que se le riden hoy a nuestro (si nuestro!) maestro Eduardo Galeano, escritor de verdades veladas, poeta de infortunios de masas, genio de las palabras y, creo que lo mejor, hombre común, que dijo lo que sintió y mas que eso, animó a muchos a seguir ese ejemplo. 
+Por supuesto no podía despedirme de la semana sino antes sumarme a los homenajes que se le rinden hoy a nuestro (si nuestro!) maestro Eduardo Galeano, escritor de verdades veladas, poeta de infortunios de masas, genio de las palabras y, creo que lo mejor, hombre común, que dijo lo que sintió y mas que eso, animó a muchos a seguir ese ejemplo. 
 
 ![][galeano2]
 
