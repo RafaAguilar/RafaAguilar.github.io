@@ -9,7 +9,7 @@ comments: true
 
 ![][violin]
 
-A la espera del segundo podcast de este año prometido por los compañeros de [Ciencia.es][ciencia] dedicado a Albert Einstein ([acá][einstein_I] el primero), desempolvo uno de hace algunos años que cuenta un poco las historias paralelas de la curiosa vida de ester científico, espero les guste tanto o más que a mí, sin más introducción, acá les dejo el enlace al artículo:
+A la espera del segundo podcast de este año prometido por los compañeros de [Ciencia.es][ciencia] dedicado a Albert Einstein ([acá][einstein_I] el primero), desempolvo uno de hace algunos años que cuenta un poco las historias paralelas de la curiosa vida de este científico, espero les guste tanto o más que a mí, sin más introducción, acá les dejo el enlace al artículo:
 
 [Ciencia.es : Albert Einstein. El violín, el tiempo y el espacio.][einstein_II]
 
