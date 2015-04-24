@@ -22,20 +22,20 @@ Esta pregunta parece totalmente razonable, sin embargo es muy fácil confundirla
 ![][irracional]
 
 
-De hecho, la fuerza gravitacional que pueda ejercer una *sola* araña jamás será mas fuerte que la que ejerce el Sol sobre nosotros, ni siquiera si la tarántula *[come-pájaros][bird-eating]* tiene la voluntad, <s>y tu la valentía de no salir corriendo</s>, de acercarse lo más que se pueda a ti podrá vencer al Sol, aún así en esas *macabras* condiciones, la fuerza del Sol será 50 millones de veces más fuerte.
+De hecho, la fuerza gravitacional que pueda ejercer una *sola* araña jamás será mas fuerte que la que ejerce el Sol sobre nosotros, ni siquiera si la tarántula *[come-pájaros][bird-eating]* tiene la voluntad, <s>y tu la valentía de no salir corriendo</s>, de acercarse lo más que se pueda a ti, nunca podrá vencer al Sol, aún así en esas *macabras* condiciones, la fuerza del Sol será 50 millones de veces más fuerte.
 
 ![][cobarde]
 
-***¿Y que tal si fueran **Todas las arañas del mundo juntas**?***
+*¿Y que tal si fueran **Todas las arañas del mundo juntas**?*
 {: .notice}
 
-Si, como si no fuese suficiente con la *come-pájaros*, ahora te toca imaginarte todas tus pesadillas juntas y cerquitas de ti para el próximo ejercicio.  Basémonos en un estudio hecho en el [2009 en Brasil][estudio] para lanzar acá unos números gruesos, en dicho estudio estimaron una cantidad de *miligramos* por metro cuadrado en algunas áreas de muestra de ese país, si establecemos que esa densidad de arañas se encuentran igualmente distribuidas en un 10% de la superficie terrestre y en más ningún otro lado, totalizará la <s>espantosa</s> cifra de 200 Kilogramos de arañas en todo el mundo.
+Si, como si no fuese suficiente con la *come-pájaros*, ahora te toca imaginarte todas tus pesadillas juntas y cerquitas de ti para el próximo ejercicio.  Basémonos en un estudio hecho en el [2009 en Brasil][estudio] para lanzar acá unos números gruesos, en dicho estudio estimaron una cantidad de *miligramos* por metro cuadrado en algunas áreas de muestra de ese país, si establecemos que esa densidad de arañas se encuentran igualmente distribuidas en un 10% de la superficie terrestre y en más ningún otro lado, totalizará la <s>espantosa</s> cifra de 200.000.000 Kilogramos (ó 200 millones KG) de arañas en todo el mundo.
 
 ![][humanos]
 
 Aún cuando estos números disten drásticamente de la realidad, es suficiente para dar respuesta a la pregunta original, y es que si calculamos la gravedad que generaría dicha masa de arañas(suena igual de horrible que cuando lo escribí), la gravedad generada por el Sol aún la supera en 13 órdenes de magnitud.
 
-No hay cálculo que de como resultado una mayor fuerza de gravedad para cualquier cantidad de arañas que la que provista por el Sol. y es que enfrentémoslo, vivimos en un mundo donde hay arañas por todas parte pero es dominado por una estrella gigantesca... Al menos no es al revés!
+No hay cálculo que de como resultado una mayor fuerza de gravedad para cualquier cantidad de arañas que la provista por el Sol. y es que enfrentémoslo, vivimos en un mundo donde hay arañas por todas parte pero es dominado por una estrella gigantesca... Al menos no es al revés!
 
 
 ![][SistemaAracnido]
