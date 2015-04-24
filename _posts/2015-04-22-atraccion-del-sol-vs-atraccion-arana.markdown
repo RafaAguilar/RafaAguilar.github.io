@@ -15,7 +15,7 @@ _Este artículo es una burda pseudo-traducción del artículo original de  **xkc
 
 Todo comenzó con una pregunta de la usuario *Marina Fleming* del portal de **[xkcd][WhatIf]**, del cual estaré <s>plagiando</s> importando otras cosas, la pregunta, en resumen, decía mas o menos esto:
 
->¿Quien aplica más fuerza gravitacional sobre mí? ¿Una araña o el Sol?, la duda surge porque aprendí en mi escuela de física que la fuerza gravitacional es inversamente proporcional al cuadrado de la distancia. Y como el Sol está tan lejos...
+>¿Quien aplica más fuerza gravitacional sobre mí? ¿Una araña o el Sol?, la duda surge porque aprendí en mi escuela de física que la fuerza gravitacional es inversamente proporcional al cuadrado de la distancia. Y como el Sol está tan lejos...  --Marina Fleming
 
 Esta pregunta parece totalmente razonable, sin embargo es muy fácil confundirla y con pequeños giros convertirla en una totalmente irracional.
 
