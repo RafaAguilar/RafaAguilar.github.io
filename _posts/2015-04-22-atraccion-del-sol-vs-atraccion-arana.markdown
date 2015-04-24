@@ -10,7 +10,7 @@ comments: true
 Parece algo bastante incoherente, pero este artículo intenta es potenciar la curiosidad sobre la física de manera lúdica, simplemente basándose en el dicho *"Donde quieras que te encuentras, siempre estarás a pocos metros de una araña"*... Conozco a algunos personajes que con solo leer esto ya se les erizará la piel, así que si tu grado de arácnofobia es tal que tienes pesadillas con estos insectos de solo verlos en el dibujo de un niño, te recomiendo que no lo leas.  Si por el contrario, puedes soportarlo un poco y te llama la atención la física, quédate, es interesante ;) .
 
 <div markdown="0"><a href="#" class="btn btn-danger">Advertencia</a></div>
-_****:Este artículo es una burda pseudo-traducción del artículo original de  **xkcd** que podrán encontrar [aquí][SpiderVsSun], así que si quieres ver el original y no la copia, ya estás advertido._
+_Este artículo es una burda pseudo-traducción del artículo original de  **xkcd** que podrán encontrar [aquí][SpiderVsSun], así que si quieres ver el original y no la copia, ya estás advertido._
 {: .notice}
 
 Todo comenzó con una pregunta de la usuario *Marina Fleming* del portal de **[xkcd][WhatIf]**, del cual estaré <s>plagiando</s> importando otras cosas, la pregunta, en resumen, decía mas o menos esto:
